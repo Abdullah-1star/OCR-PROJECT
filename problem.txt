@@ -1,0 +1,5 @@
+# problem_1 
+at first I set the threshoulds like 50,150 but it was bad and it didnt detect the card edge so
+i made tuning and i set it to 30,150 
+edges=cv2.Canny(blur,30,150)
+
