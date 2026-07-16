@@ -1,3 +1,7 @@
+streamlit
 opencv-python
+deepface
+tf-keras
+easyocr
 numpy
-deepface 
+pillow
